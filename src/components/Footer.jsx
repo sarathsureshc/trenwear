@@ -34,11 +34,11 @@ const Footer = () => {
               <img 
                 src="/logo-transparent.png" 
                 alt="Trenwear Logo" 
-                className="h-12 w-auto"
+                className="h-56 w-auto"
               />
-              <div>
+              {/* <div>
                 <p className="text-xs text-gray-400">Customize Your Style</p>
-              </div>
+              </div> */}
             </div>
             <p className="text-gray-400 text-sm mb-4">
               Premium custom apparel for schools, offices, events, and sports. Quality fabrics, perfect fit, on-time delivery.
